@@ -12,7 +12,13 @@
 
 - [GayMaker](https://github.com/KuromeSan/GayMaker/releases/tag/v1.7.7) - A way to port GameMaker Studio 1.4 games to the PsVita
 
-# Decompiling Tools
+# Ren'py Decompiling tools
+
+- [RPA Extract](https://github.com/TyDevX/renpy-decomp-tools/raw/main/rpaExtract-OldVersion.exe) - A tool to decompile RPA Archives
+
+- [Un.rpyc](https://github.com/TyDevX/renpy-decomp-tools/raw/main/un.rpyc) - A tool to decompile .rpyc files
+
+# Unity Decompiling Tools
 
 - [Asset Ripper](https://github.com/AssetRipper/AssetRipper/releases/latest) - Hella great for decompiling or grabbing the assets of Unity Games, easy to use and friendly gui!
 
@@ -20,14 +26,20 @@
 
 - [dnSpy](https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8) - Pretty good for decompiling apps made in Csharp with Visual Studio (or unity games)
 
+- [Il2CppDumper](https://github.com/Perfare/Il2CppDumper/releases/latest) - A tool to decompile Unity games compiled with Il2Cpp
+
+# Game Maker Decompiling Tools
+
 - [OpenGMK](https://github.com/OpenGMK/OpenGMK/tree/master) - Great to decompile game maker classic games. Also a remake of the GameMaker Classic engine runners with additional tooling.
+
+# GODOT Decompiling Tools
+
+- [gdsdecomp](https://github.com/bruvzg/gdsdecomp/releases/latest) - A tool to decompile Godot Games.
+
+# Other Decompiling Tools
 
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases/latest) - Pretty cool tool to decompile applications to assembly code and then turn them to C/C++ code.
 
 - [Ghidrecomp](https://github.com/clearbluejar/ghidrecomp/releases/latest) - Python command line for ghidra decompiling
 
 - [Ghidra GameCube Loader](https://github.com/Cuyler36/Ghidra-GameCube-Loader/releases/latest) - A tool to load nintendo gamecube binarys into ghidra
-
-- [gdsdecomp](https://github.com/bruvzg/gdsdecomp/releases/latest) - A tool to decompile Godot Games.
-
-- [Il2CppDumper](https://github.com/Perfare/Il2CppDumper/releases/latest) - A tool to decompile Unity games compiled with Il2Cpp
