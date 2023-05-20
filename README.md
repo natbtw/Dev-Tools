@@ -1,14 +1,30 @@
 ### Dev Tools
 
-- The tools I use for decompiling, porting, etc.
+- The tools I use for decompiling, porting, modding, etc.
 
-# PS Vita Tools
+# Game Engines
+
+- [Unity with PSVita Support](https://drive.google.com/drive/folders/1_q5bfUZexDKKUw6qGz6rJZ7yoNDaWFmg) - Unity 2017 and 2018 with the PSVita export module.
+
+- [Ren'py 7](https://www.renpy.org/latest-7.html) - The engine that some popular visual novels (DDLC!!) use.
+
+- [Godot](https://godotengine.org/download/windows/) - A free and open source 2D and 3D game engine.
+
+- [HaxeFlixel](https://haxeflixel.com/documentation/getting-started/) - Cross-platform game maker. All with one codebase.
+
+# PSVita Tools
 
 - [FMOD PSV](https://github.com/GrapheneCt/FMOD-PSV) - FMOD interface for PS Vita homebrew
 
+- [PSVita 4 Ever - Resources](https://docs.google.com/document/d/1VPwrSiBEzdKzhxGj16Ms2e7O-ThU3xDkq47JJVEQz6I/edit#) Tools and Resources by the [PSVita 4 Ever Discord](https://discord.gg/AgCDtU9Amq)
+
 - [PSVita Unity Utilities](https://github.com/GlitcherOG/PSVita-Unity-Utilities) - Tools to help speed up PSVita Unity Development
 
+- [Ren'py Vita](https://github.com/SonicMastr/renpy-vita) - A port of ren'py to the PSVita
+
 - [Unity PS Vita Video Player](https://github.com/ParkingLotGames/Unity-PS-Vita-Video-Player) - A working example for video playback in Unity for PS Vita
+
+- [Unity Tools by SilicaAndPina](https://bitbucket.org/SilicaAndPina/unitytools/downloads/UnityTools.exe) - A vpk maker for Unity Games exported with the PSVita module
 
 - [GayMaker](https://github.com/KuromeSan/GayMaker/releases/tag/v1.7.7) - A way to port GameMaker Studio 1.4 games to the PsVita
 
