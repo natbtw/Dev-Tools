@@ -38,6 +38,12 @@
 
 * [Nintendo 3DS Game Template for Unity](https://github.com/AlexSteiner30/Unity-Nintendo-3DS) - A unity 3ds template to improve user experience by @AlexSteiner30
 
+* [Devkitpro](https://devkitpro.org/wiki/Getting_Started) - An organisation dedicated to producing a number of cross compilers intended for use by hobby programmers writing their own games and applications for popular game consoles where it's possible to run unsigned code.
+
+* [3DSHaxe by Krismowo](https://github.com/Krismowo/3DSHaxe) - Allows you to make 3ds homebrew using haxe! (HAXEFLIXEL NOT SUPPORTED)
+
+* [DEVKITPRO-Workflow] - A basic devkitpro workflow template by me for 3ds homebrew
+
 # Ren'py Decompiling tools
 
 - [RPA Extract](https://github.com/TyDevX/renpy-decomp-tools/raw/main/rpaExtract-OldVersion.exe) - A tool to decompile RPA Archives
