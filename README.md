@@ -20,15 +20,17 @@
 
 - [PSVita 4 Ever - Resources](https://docs.google.com/document/d/1VPwrSiBEzdKzhxGj16Ms2e7O-ThU3xDkq47JJVEQz6I/edit#) Tools and Resources by the [PSVita 4 Ever Discord](https://discord.gg/AgCDtU9Amq)
 
-- [PSVita Unity Utilities](https://github.com/GlitcherOG/PSVita-Unity-Utilities) - Tools to help speed up PSVita Unity Development
+- [PSVita Unity Utilities](https://github.com/GlitcherOG/PSVita-Unity-Utilities) - Tools to help speed up PSVita Unity Development by GlitcherOG
+
+- [Useful Packages for PSVita Unity Development](https://rentry.org/vitausefulpackages) Some unity packages for Unity PSVita game development/porting
 
 - [Ren'py Vita](https://github.com/SonicMastr/renpy-vita) - A port of ren'py to the PSVita
 
-- [Unity PS Vita Video Player](https://github.com/ParkingLotGames/Unity-PS-Vita-Video-Player) - A working example for video playback in Unity for PS Vita
+- [Unity PS Vita Video Player](https://github.com/ParkingLotGames/Unity-PS-Vita-Video-Player) - A working example for video playback in Unity for PS Vita by ParkingLotGames
 
-- [Unity Tools by SilicaAndPina](https://bitbucket.org/SilicaAndPina/unitytools/downloads/UnityTools.exe) - A vpk maker for Unity Games exported with the PSVita module
+- [Unity Tools by SilicaAndPina](https://bitbucket.org/SilicaAndPina/unitytools/downloads/UnityTools.exe) - A vpk maker for Unity Games exported with the PSVita module by SilicaAndPina
 
-- [GayMaker](https://github.com/KuromeSan/GayMaker/releases/tag/v1.7.7) - A way to port GameMaker Studio 1.4 games to the PsVita
+- [GayMaker](https://github.com/KuromeSan/GayMaker/releases/tag/v1.7.7) - A way to port GameMaker Studio 1.4 games to the PsVita by KuromeSan
 
 # Nintendo 3DS Tools
 
@@ -58,12 +60,12 @@
 
 # GODOT Decompiling Tools
 
-- [gdsdecomp](https://github.com/bruvzg/gdsdecomp/releases/latest) - A tool to decompile Godot Games.
+- [gdsdecomp](https://github.com/bruvzg/gdsdecomp/releases/latest) - A tool to decompile Godot Games by bruvzg.
 
 # Other Decompiling Tools
 
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases/latest) - Pretty cool tool to decompile applications to assembly code and then turn them to C/C++ code.
 
-- [Ghidrecomp](https://github.com/clearbluejar/ghidrecomp/releases/latest) - Python command line for ghidra decompiling
+- [Ghidrecomp](https://github.com/clearbluejar/ghidrecomp/releases/latest) - Python command line for ghidra decompiling by clearbluejar
 
-- [Ghidra GameCube Loader](https://github.com/Cuyler36/Ghidra-GameCube-Loader/releases/latest) - A tool to load nintendo gamecube binarys into ghidra
+- [Ghidra GameCube Loader](https://github.com/Cuyler36/Ghidra-GameCube-Loader/releases/latest) - A tool to load nintendo gamecube binarys into ghidra by Cuyler36
