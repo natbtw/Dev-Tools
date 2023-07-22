@@ -6,6 +6,8 @@
 
 - [Unity with PSVita Support](https://drive.google.com/drive/folders/1_q5bfUZexDKKUw6qGz6rJZ7yoNDaWFmg) - Unity 2017 and 2018 with the PSVita export module.
 
+- [Unity 5 with New Nintendo 3DS Support](https://archive.org/details/unity-for-3-ds) - Unity 5 with the New Nintendo 3DS export module.
+
 - [Ren'py 7](https://www.renpy.org/latest-7.html) - The engine that some popular visual novels (DDLC!!) use.
 
 - [Godot](https://godotengine.org/download/windows/) - A free and open source 2D and 3D game engine.
@@ -28,6 +30,12 @@
 
 - [GayMaker](https://github.com/KuromeSan/GayMaker/releases/tag/v1.7.7) - A way to port GameMaker Studio 1.4 games to the PsVita
 
+# Nintendo 3DS Tools
+
+* [Unity 3DS Documentation](https://github.com/TyDevX/Unity3DS) - A work in progress documentation by me for creating/porting unity games for the 3ds
+
+* [Nintendo 3DS Game Template for Unity](https://github.com/AlexSteiner30/Unity-Nintendo-3DS) - A unity 3ds template to improve user experience by @AlexSteiner30
+
 # Ren'py Decompiling tools
 
 - [RPA Extract](https://github.com/TyDevX/renpy-decomp-tools/raw/main/rpaExtract-OldVersion.exe) - A tool to decompile RPA Archives
@@ -38,7 +46,7 @@
 
 - [Asset Ripper](https://github.com/AssetRipper/AssetRipper/releases/latest) - Hella great for decompiling or grabbing the assets of Unity Games, easy to use and friendly gui!
 
-- [Utiny Ripper](https://github.com/mafaca/UtinyRipper) - Another Unity Game Decompiler
+- [Utiny Ripper](https://github.com/mafaca/UtinyRipper) - Another Unity Game Decompiler (Better for older games, and don't forget to use dnSpy to get the scripts)
 
 - [dnSpy](https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8) - Pretty good for decompiling apps made in Csharp with Visual Studio (or unity games)
 
