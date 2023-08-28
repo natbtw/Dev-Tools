@@ -6,7 +6,7 @@
 
 - [Unity with PSVita Support](https://drive.google.com/drive/folders/1_q5bfUZexDKKUw6qGz6rJZ7yoNDaWFmg) - Unity 2017 and 2018 with the PSVita export module.
 
-- [Unity 5 with New Nintendo 3DS Support](https://archive.org/details/unity-for-3-ds) - Unity 5 with the New Nintendo 3DS export module.
+- [Unity 2017 with 3DS Build Support, NDI, and CTR SDK](https://archive.org/details/unity-2017-3ds-sdk_202308_202308) - Unity 2017 with the New Nintendo 3DS export module, NDI, and CTR SDK.
 
 - [Ren'py 7](https://www.renpy.org/latest-7.html) - The engine that some popular visual novels (DDLC!!) use.
 
