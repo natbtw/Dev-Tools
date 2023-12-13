@@ -8,7 +8,7 @@
 
 - [Unity 2017 with 3DS Build Support, NDI, and CTR SDK](https://archive.org/details/unity-2017-3ds-sdk_202308_202308) - Unity 2017 with the New Nintendo 3DS export module, NDI, and CTR SDK.
 
-- [Ren'py 7](https://www.renpy.org/latest-7.html) - The engine that some popular visual novels (DDLC!!) use.
+- [Ren'py 7](https://www.renpy.org/latest-7.html) - The engine that some popular visual novels use.
 
 - [Godot](https://godotengine.org/download/windows/) - A free and open source 2D and 3D game engine.
 
@@ -28,9 +28,9 @@
 
 - [Unity PS Vita Video Player](https://github.com/ParkingLotGames/Unity-PS-Vita-Video-Player) - A working example for video playback in Unity for PS Vita by ParkingLotGames
 
-- [Unity Tools by SilicaAndPina](https://bitbucket.org/SilicaAndPina/unitytools/downloads/UnityTools.exe) - A vpk maker for Unity Games exported with the PSVita module by SilicaAndPina
+- [Unity Tools by SilicaAndPina](https://bitbucket.org/LiEnby/unitytools/downloads/UnityTools.exe) - A vpk maker for Unity Games exported with the PSVita module by LiEnby
 
-- [GayMaker](https://github.com/KuromeSan/GayMaker/releases/tag/v1.7.7) - A way to port GameMaker Studio 1.4 games to the PsVita by KuromeSan
+- [GayMaker](https://github.com/LiEnby/GayMaker/releases/tag/v1.7.7) - A way to port GameMaker Studio 1.4 games to the PsVita by LiEnby
 
 # Nintendo 3DS Tools
 
@@ -40,9 +40,7 @@
 
 * [Devkitpro](https://devkitpro.org/wiki/Getting_Started) - An organisation dedicated to producing a number of cross compilers intended for use by hobby programmers writing their own games and applications for popular game consoles where it's possible to run unsigned code.
 
-* [3DSHaxe by Krismowo](https://github.com/Krismowo/3DSHaxe) - Allows you to make 3ds homebrew using haxe! (HAXEFLIXEL NOT SUPPORTED)
-
-* [DEVKITPRO-Workflow] - A basic devkitpro workflow template by me for 3ds homebrew
+* [3DSHaxe by UmnganeWami](https://github.com/UmnganeWami/3DSHaxe) - Allows you to make 3ds homebrew using haxe! (HAXEFLIXEL NOT SUPPORTED)
 
 # Ren'py Decompiling tools
 
